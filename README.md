@@ -11,6 +11,7 @@ Except where indicated otherwise, the files in this project are copyright (c)
 Attribution-ShareAlike 4.0 International License.
 
 **FIXME** - This really needs a user manual.
+
 **FIXME** - Firmware code not yet folded into the repository.
 
 
@@ -35,8 +36,11 @@ modifications where appropriate. Under vendor copyright.
 
 ## Gallery
 
+### 2020 Board:
 ![2020 Board](./pcb-202009-9v/photos/processed/rev2-board.jpg)
 ![2020 System](./pcb-202009-9v/photos/processed/rev2-accessories.jpg)
+
+### 2025 Board:
 ![2025 Render](./pcb-202502/renders/sfx-202502a-side.png)
 ![2025 Layout](./pcb-202502/plots/sfx-202502a.png)
 ![2025 Schematic](./pcb-202502/schem/sfx-202502a-schem.png)
