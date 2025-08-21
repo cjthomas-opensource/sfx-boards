@@ -1,0 +1,11 @@
+Parts notes for version "a":
+
+- The terminal blocks are expensive. If I make another version, adjust the
+  layout so that I can easily use headers instead.
+
+- The power switch is very expensive. Use the manufacturer's recommended
+  replacement for the SLB12814 switch I'd used last time instead of the new
+  CK one. This will take up more space but that's acceptable.
+
+
+(This is the end of the file.)

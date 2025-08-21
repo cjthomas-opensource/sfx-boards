@@ -1,0 +1,7 @@
+Feature requests:
+
+- Have a clock-in header.
+- Have a force-reset button or header.
+- Use a 4.7k resistor for the on-board LED, as it's stupidly bright.
+- Add more LEDs, moving some components under the board to make room.
+- Use a larger pushbutton, to avoid needing a button adapter.

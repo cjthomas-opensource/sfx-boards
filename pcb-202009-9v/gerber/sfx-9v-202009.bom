@@ -1,0 +1,19 @@
+# PcbBOM Version 1.0
+# Date: Mon 07 Sep 2020 04:58:45 PM GMT UTC
+# Author: Christopher Thomas
+# Title: (unknown) - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+1,"(unknown)","SLB12814",S1 
+7,"(unknown)","(unknown)",P1 P3 P2 (unknown) (unknown) P4 P5 
+1,"(unknown)","ATmega328P",U1 
+2,"(unknown)","220k",R2 R3 
+1,"(unknown)","0.1u",C1 
+2,"(unknown)","22u",C2 C3 
+3,"(unknown)","schottky",D1 D2 D4 
+1,"(unknown)","MCP1703-5V",U2 
+1,"(unknown)","green",D3 
+2,"(unknown)","BS170",M1 M2 
+1,"(unknown)","B3U1110",S2 
+1,"(unknown)","47k",R1 
+2,"(unknown)","1k",R4 R5 

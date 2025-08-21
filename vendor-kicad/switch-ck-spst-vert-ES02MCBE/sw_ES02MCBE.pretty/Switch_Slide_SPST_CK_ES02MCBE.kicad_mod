@@ -1,0 +1,166 @@
+(footprint "Switch_Slide_SPST_CK_ES02MCBE"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.254 -3.929 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "278341ab-151b-4a37-b022-97e5ec66c6c0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Switch_Slide_SPST_CK_ES02MCBE"
+		(at 1.016 9.017 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "08c2d57f-24a9-43d4-8958-b5afd728357e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0.254 -3.429 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd8a1a46-70fb-4d21-98ac-6a88c7bf09df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0.254 -3.429 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d57a133-30e9-4ec2-a742-ac52f833fff1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0.254 -3.429 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09976c54-3917-4523-b952-7f8ca5a89652")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -1.905 -2.667)
+		(end 4.445 7.747)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "483e7d41-fc59-4224-aff0-0962bf07b5a7")
+	)
+	(fp_rect
+		(start -2.032 -2.794)
+		(end 4.572 7.874)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "bc46789e-83d3-47a6-bb4e-70e7a4ce1871")
+	)
+	(fp_rect
+		(start -1.778 -2.54)
+		(end 4.318 7.62)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "37160762-6830-4441-9fc7-62821ba6152a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.143 -1.778 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "43471525-e1e2-4c76-bfac-993aecbb38af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.778 1.778)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bf66666f-3df5-4228-a8a4-9106048ce8c9")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.54)
+		(size 1.778 1.778)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4765f927-10d0-4baa-a559-10dd94554d43")
+	)
+	(pad "3" thru_hole circle
+		(at 0 5.08)
+		(size 1.778 1.778)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7203865b-9b27-428e-b6a7-298b7970ce49")
+	)
+	(pad "4" thru_hole circle
+		(at 2.54 0)
+		(size 1.778 1.778)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "880c3e6b-1b68-48d5-95b5-962463d702cb")
+	)
+	(pad "6" thru_hole circle
+		(at 2.54 5.08)
+		(size 1.778 1.778)
+		(drill 1.09)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "327401f2-e357-4775-9aa8-9b27aae3ef2f")
+	)
+	(model "${KICAD_EXT_VENDOR}/switch-ck-spst-vert-ES02MCBE/ES02MCBE.step"
+		(offset
+			(xyz 1.25 -2.5 7.9)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+)
