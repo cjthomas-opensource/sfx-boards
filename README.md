@@ -23,7 +23,7 @@ In `Preferences`->`Configure Paths`, set `KICAD_EXT_VENDOR` to point to the
 
 ## Folders
 
-* `pcb-202009-9v` -- Compact board that sits beside a 9v battery.
+* `pcb-202009-9v` -- Compact board that sits on top of a 9v battery.
 Needs an external clock to be programmed. Made with the "`pcb`" program
 (now part of `gEDA`) rather than with KiCAD.
 * `pcb-202502` -- Feature-rich board with terminal block connections. Bulky
@@ -41,6 +41,7 @@ modifications where appropriate. Under vendor copyright.
 ![2020 System](./pcb-202009-9v/photos/processed/rev2-accessories.jpg)
 
 ### 2025 Board:
+![2025 Board](./pcb-202502/photos/processed/v202502a-board.jpg)
 ![2025 Render](./pcb-202502/renders/sfx-202502a-side.png)
 ![2025 Layout](./pcb-202502/plots/sfx-202502a.png)
 ![2025 Schematic](./pcb-202502/schem/sfx-202502a-schem.png)
