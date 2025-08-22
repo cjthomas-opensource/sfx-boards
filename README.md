@@ -15,7 +15,7 @@ Attribution-ShareAlike 4.0 International License.
 **FIXME** - Firmware code not yet folded into the repository.
 
 
-## KiCAD Configuration
+## KiCad Configuration
 
 In `Preferences`->`Configure Paths`, set `KICAD_EXT_VENDOR` to point to the
 `vendor-kicad` folder.
@@ -25,11 +25,11 @@ In `Preferences`->`Configure Paths`, set `KICAD_EXT_VENDOR` to point to the
 
 * `pcb-202009-9v` -- Compact board that sits on top of a 9v battery.
 Needs an external clock to be programmed. Made with the "`pcb`" program
-(now part of `gEDA`) rather than with KiCAD.
+(now part of `gEDA`) rather than with KiCad.
 * `pcb-202502` -- Feature-rich board with terminal block connections. Bulky
-and very expensive. Made with KiCAD.
+and very expensive. Made with KiCad.
 * `vendor-datasheets` -- Datasheets. Under vendor copyright.
-* `vendor-kicad` -- Vendor-supplied KiCAD files, with additions and
+* `vendor-kicad` -- Vendor-supplied KiCad files, with additions and
 modifications where appropriate. Under vendor copyright.
 * `vendor-models` -- Vendor-supplied geometry models. Under vendor copyright.
 
